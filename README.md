@@ -1,16 +1,21 @@
-# bytebank
+# Bytebank
 
-A new Flutter project.
+This is my first Flutter project designed to get a grasp of the basics in what Flutter is capable of doing.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## First Update
+So far on the first update. Not much has been done. Just basic understanding of how Flutter exhibits text on screen and how Columns and Text Direction works.
 
-A few resources to get you started if this is your first Flutter project:
+Tests done on Pixel 4 (Emulated) and on browser, Chrome.
+### notes
+Flutter <b>do</b> work as a charm so far
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+####Contact Info
+Twitter @MatheusFarina
+
+Instagram @MatheusFarina1
+
+e-mail farinamatheus07@gmail.com
+
